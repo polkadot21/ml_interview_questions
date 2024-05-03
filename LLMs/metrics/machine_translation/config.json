@@ -1,0 +1,19 @@
+{
+  "model": {
+    "name": "Helsinki-NLP/opus-mt-en-fr"
+  },
+  "data": [
+    {
+        "english": "Hello, how are you?",
+        "french_refs": ["Bonjour, comment ça va?", "Bonjour, comment allez-vous?"]
+    },
+    {
+        "english": "What is your name?",
+        "french_refs": ["Quel est ton nom?", "Quel est votre nom?"]
+    },
+    {
+        "english": "I love machine learning.",
+        "french_refs": ["J'aime l'apprentissage automatique.", "J'adore apprendre par machine"]
+    }
+  ]
+}

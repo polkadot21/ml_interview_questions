@@ -1,0 +1,11 @@
+{
+  "model": {
+    "name": "distilbert-base-uncased-distilled-squad",
+  },
+  "data": [
+    {
+      "context": "Quantization is a technique used in deep learning and signal processing to reduce the model size and increase computational efficiency. The technique involves reducing the precision of the numbers used to represent model weights, which can accelerate inference and reduce storage requirements.",
+      "question": "What is the purpose of quantization in deep learning?"
+    }
+  ]
+}

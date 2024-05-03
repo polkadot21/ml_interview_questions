@@ -1,0 +1,5 @@
+transformers
+torch
+nltk
+rouge-score
+sentencepiece

@@ -1,0 +1,17 @@
+{
+  "model": {
+    "name": "distilbert-base-uncased-distilled-squad"
+  },
+  "data": [
+    {
+      "context": "Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability.",
+      "question": "What type of language is Python?",
+      "true_answer": "dynamic programming language"
+    },
+    {
+      "context": "Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability.",
+      "question": "What does Python focus on?",
+      "true_answer": "code readability"
+    }
+  ]
+}
